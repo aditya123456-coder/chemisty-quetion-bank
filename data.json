@@ -41,11 +41,75 @@
     "children": [
       {
         "id": "mb3b4065bq6fr7rez",
-        "name": "upto mass spectroscopy easy language link ",
+        "name": "easy language link ",
         "type": "link",
         "url": "https://chatgpt.com/share/6832beff-1084-800e-b64d-dafc30209f1c"
+      },
+      {
+        "id": "mb3edqtr51rqetwmk",
+        "name": "What is UV spectroscopy and beer lambert's law",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mb3ef4zwb1mngqq0w",
+        "name": "Primary component for UV visible spectroscopy",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mb3ejz5wzlpsu1d1t",
+            "name": "Light source",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3muql5ttvnu3dkd",
+            "name": "Wavelength selection",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3mv0colwc4xccar",
+            "name": "Sample covette",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3mvwt4yldncmzur",
+            "name": "Amplifier ",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3mwkj4cpj513pye",
+            "name": "Detector",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3mxdlzy3ettdy3p",
+            "name": "Recording device",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mb3mxs0vi4qrkd636",
+            "name": "Sample devices",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
       }
     ],
-    "expanded": false
+    "expanded": true
   }
 ]
