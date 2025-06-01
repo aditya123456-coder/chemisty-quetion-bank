@@ -108,8 +108,247 @@
           }
         ],
         "expanded": false
+      },
+      {
+        "id": "mb4x0s7cu4gujn6f0",
+        "name": "Effect of Conjugation on Position of UV and Visible Band",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mb641eoiotjd5d80r",
+        "name": "What is IR spectroscopy read",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mb641wbtzz8p8oqb3",
+        "name": "Hooke's law",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mb64lxbx72efrgtc4",
+        "name": "Fundamental mode of vibration",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mb64m6oi426dfn9gn",
+            "name": "Stretching operation",
+            "type": "folder",
+            "children": [
+              {
+                "id": "mb64nm0dpaqgyy15o",
+                "name": "Symmetric stretching vibration",
+                "type": "folder",
+                "children": [],
+                "expanded": false
+              },
+              {
+                "id": "mb64ntyih4xp5si28",
+                "name": "ASymmetric stretching operation",
+                "type": "folder",
+                "children": [],
+                "expanded": false
+              }
+            ],
+            "expanded": false
+          },
+          {
+            "id": "mb64oas9xqq3tsu4x",
+            "name": "Bending vibration",
+            "type": "folder",
+            "children": [
+              {
+                "id": "mb64ono8q33jjl45o",
+                "name": "In plane bending vibration",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "mb64rmidrame1ivzz",
+                    "name": "Scissoring",
+                    "type": "folder",
+                    "children": [],
+                    "expanded": false
+                  },
+                  {
+                    "id": "mb64rv5w00mn7rw8k",
+                    "name": " Rocking",
+                    "type": "folder",
+                    "children": [],
+                    "expanded": false
+                  }
+                ],
+                "expanded": false
+              },
+              {
+                "id": "mb64s58hze3qmzzp0",
+                "name": "Out of plane bending vibration",
+                "type": "folder",
+                "children": [
+                  {
+                    "id": "mb64snozec62tlppi",
+                    "name": "Wagging",
+                    "type": "folder",
+                    "children": [],
+                    "expanded": false
+                  },
+                  {
+                    "id": "mb64sufkofmdeoqd4",
+                    "name": "Twisting",
+                    "type": "folder",
+                    "children": [],
+                    "expanded": false
+                  }
+                ],
+                "expanded": false
+              }
+            ],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbc6xuobpvov53zwq",
+        "name": "Instrumentation of IR spectrometer",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mbc6ywdgpcrbjyop4",
+            "name": "Radiation source",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbc8fjtf029cb8rmn",
+            "name": "Sample cell",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbc8gebhwc4gp3bhj",
+            "name": "Monochromator",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbc8gp7ldo7usjr8b",
+            "name": "Detector recorder",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbc8gxhcyizesjq23",
+            "name": "Recorder",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbcarx5l9cpscsbnp",
+        "name": "Factor affecting vibrational frequency",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mbcat5iua21z0hpja",
+            "name": "Conjugation",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcatbm4maoh7z6wu",
+            "name": "Inductive and resonance effect",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcatid3bm2tmji9d",
+            "name": "Hydrogen bonding",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcatnwg3vsb3j1zy",
+            "name": "Ring strain",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbcgqun4olh3md0eo",
+        "name": "Instrumentation of Mass Spectrometry",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mbcgr304m5hv10qcq",
+            "name": "Ionizer",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcgrsektvc88gm8j",
+            "name": "Accelerator",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcgs5934xv72qkd4",
+            "name": "Deflector",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbcgsbirod8xd9ov5",
+            "name": "Detector",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbcjp5gdr82m28u9y",
+        "name": "Isotopic abundance",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbcjpclbpdqttecp2",
+        "name": "Application of mass spectroscopy",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbd2u9nxhfohtr0lr",
+        "name": "What is potential titration its procedure and application",
+        "type": "folder",
+        "children": [],
+        "expanded": false
       }
     ],
-    "expanded": true
+    "expanded": false
   }
 ]
