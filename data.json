@@ -31,7 +31,127 @@
     "id": "mb3b2e58kk4gr37da",
     "name": "Chapter 5",
     "type": "folder",
-    "children": [],
+    "children": [
+      {
+        "id": "mbd36hzjwjifhwpud",
+        "name": "easy chapter link",
+        "type": "link",
+        "url": "https://chatgpt.com/share/683bc52f-5cfc-800e-b4f5-4a901451d8fb"
+      },
+      {
+        "id": "mbd68o4feqytsexrb",
+        "name": "Important terms in polymer",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mbd690o0fmw96cuv8",
+            "name": "Definition",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbd696oeckip4u82o",
+            "name": "Monomer",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbd69bul5ht3jzwpj",
+            "name": "Degree of polymerization",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbd6pt9wbpsm6njln",
+        "name": "Natural polymer and synthetic polymer",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbd73hmxn2s3jdjps",
+        "name": "Glass transition temperature",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbd896om862pm9tmi",
+        "name": "Factors affecting on glass transition temperature",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbd8b71d1fbsqqwbr",
+        "name": "What is thermoplastic READ IN DOCUMENT",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbd9ue7xbtrhtuorx",
+        "name": "What is polycarbonate its synthesis and application",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdarrw3qwbvet29r",
+        "name": "Pulyether sulphone and it's synthesis and application",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdpko3k6dez6htjj",
+        "name": "Phenol formaldehyde",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdpl4uajsr17w6mn",
+        "name": "Urea formaldehyde",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdplbmcokj5yhgkv",
+        "name": "Epoxy resin",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdplmnaqt6skdvrn",
+        "name": "What is biodegradable polymer and it's example",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdxgldhsrbjy498h",
+        "name": "Polylactic acid synthesis and application properties ",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbdxhh4no6zqhv7ru",
+        "name": "Application of biodegradable polymer",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      }
+    ],
     "expanded": false
   },
   {
@@ -351,4 +471,4 @@
     ],
     "expanded": false
   }
-]
+            ]
