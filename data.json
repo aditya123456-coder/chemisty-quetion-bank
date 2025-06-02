@@ -137,7 +137,49 @@
     "id": "mb3b2dkl26qhmtje8",
     "name": "Chapter 4",
     "type": "folder",
-    "children": [],
+    "children": [
+      {
+        "id": "mbeuad65jwejyzric",
+        "name": "easy link chapter",
+        "type": "link",
+        "url": "https://chatgpt.com/share/683d6348-4bb8-8011-94f3-5c30cd1de652"
+      },
+      {
+        "id": "mbew3bq312fl9nf9m",
+        "name": "Nanometer and its properties",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbexott2ogrh1ky26",
+        "name": "Classification of nanomaterial",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbeze5n0o4gfg5n3m",
+        "name": "Solution combustion method",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbf2v97cebuxb6fpj",
+        "name": "Solgel method",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbf2vkhb7doh0lmmg",
+        "name": "Borazin",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      }
+    ],
     "expanded": false
   },
   {
