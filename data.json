@@ -10,7 +10,120 @@
     "id": "mb3b2bmybbcmmo5m9",
     "name": "Chapter 2",
     "type": "folder",
-    "children": [],
+    "children": [
+      {
+        "id": "mbdzdihkspfk05ven",
+        "name": "easy chapter link",
+        "type": "link",
+        "url": "https://chatgpt.com/share/683c988d-a11c-8011-a1b7-cbda2b239eab"
+      },
+      {
+        "id": "mbehl0jy06x0mg9ox",
+        "name": "Explain theoretically principalsFROM NOTE",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbekqaesi8t70gtqw",
+        "name": "Characteristics of batteryFROM NOTE",
+        "type": "folder",
+        "children": [
+          {
+            "id": "mbekqmddhp75v6aav",
+            "name": "Capacity",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekrwnmxkgvgu80l",
+            "name": "Current",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbeksulu1uxhk2hp2",
+            "name": "Power density",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekys0injadk4in5",
+            "name": "Electricity storage density",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekyxrzhzm7lum6h",
+            "name": "Power",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekz82ve4pkjkqvj",
+            "name": "Free energy change",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekzf8zzzvge6iom",
+            "name": "Efficiency",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          },
+          {
+            "id": "mbekzmkq13m3trz44",
+            "name": "Life cycle",
+            "type": "folder",
+            "children": [],
+            "expanded": false
+          }
+        ],
+        "expanded": false
+      },
+      {
+        "id": "mbenups3h7kpjw3tr",
+        "name": "Working of battery charging and dischargingFROM NOTE",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbep79wogr1spbspy",
+        "name": "Types of batteries",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbepews4l1sp0goxc",
+        "name": "What is modern batteries advantages disadvantages application",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbeq74y0g1frdbs2c",
+        "name": "Li Mno2 battery",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      },
+      {
+        "id": "mbergikektz95mm41",
+        "name": "Photovoltaic cell",
+        "type": "folder",
+        "children": [],
+        "expanded": false
+      }
+    ],
     "expanded": false
   },
   {
@@ -471,4 +584,4 @@
     ],
     "expanded": false
   }
-            ]
+]
